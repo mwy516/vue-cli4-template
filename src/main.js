@@ -2,7 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 
-import '@babel/polyfill' // IE兼容
+import "@babel/polyfill" // IE兼容
 
 Vue.config.productionTip = false;
 
